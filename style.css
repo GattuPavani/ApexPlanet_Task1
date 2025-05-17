@@ -1,0 +1,42 @@
+body{
+    margin: 15px;
+    padding: 0px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
+
+p{
+    font-size: 20px;
+    color: rgb(23, 143, 229);
+}
+
+img{
+    width: 500px;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(60, 45, 230);
+    display: block;
+    margin: 20px auto;
+    padding: 10px 30px;
+
+}
+
+button{
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(10, 156, 83);
+}
